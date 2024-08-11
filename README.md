@@ -1,1 +1,1 @@
-chatgpt intgration with java 
+ chatgpt integration with java
